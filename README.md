@@ -1,2 +1,0 @@
-# quizAppImma2018
-
