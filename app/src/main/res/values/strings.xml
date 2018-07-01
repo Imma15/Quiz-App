@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">KitabuZone CRE Quiz</string>
+
+    <string name="question1">1. Which of the following is not a book in the new testament?</string>
+    <string name="question1_choice1">Mark</string>
+    <string name="question1_choice2">John</string>
+    <string name="question1_choice3">Genesis</string>
+
+    <string name="question2">2. God created Adam and?</string>
+
+    <string name="question3">3. Name two Apostles of Jesus in the Bible?</string>
+    <string name="question3_choice1">Bartholomew</string>
+    <string name="question3_choice2">Michael</string>
+    <string name="question3_choice3">Matthew</string>
+    <string name="question3_choice4">Wayne</string>
+
+    <string name="question4">4. The mother of Jesus is known as</string>
+
+    <string name="question5">5 In the beginning, God created:</string>
+    <string name="question5_choice1">night and day</string>
+    <string name="question5_choice2">heaven and earth</string>
+    <string name="question5_choice3">Adam and Eve</string>
+
+    <string name="question6">6. The last book in the bible is called the book of</string>
+
+    <string name="question7">7. Select two sisters of Lazarus that Jesus visited:</string>
+    <string name="question7_choice1">Lucy</string>
+    <string name="question7_choice2">Elizabeth</string>
+    <string name="question7_choice3">Mary</string>
+    <string name="question7_choice4">Martha</string>
+
+    <string name="question8">8. Where was Jesus born? [Hint: starts with B..]</string>
+
+    <string name="question9">9. Who in the bible betrayed Jesus?</string>
+    <string name="question9_choice1">Martin</string>
+    <string name="question9_choice2">Judas</string>
+
+    <string name="question10">10. Which Christian season is in December celebrating the birth of Jesus?</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+
+</resources>
